@@ -1,5 +1,5 @@
 {
-  "name": "health-life-backend",
+  "name": "hl-backend",
   "version": "1.0.0",
   "description": "Back end app Health-Life",
   "main": "index.js",

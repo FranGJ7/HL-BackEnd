@@ -7,11 +7,7 @@ import { User } from "./models/User"
 
 export const routes = express.Router()
 
-//Rota teste
-routes.get('/', (req, res) => {
-    res.send('Olá')
-})
-
+ 
 
 //Rota para cadastrar usuário
 routes.post('/register', async (req, res) => {
